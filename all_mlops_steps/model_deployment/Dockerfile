@@ -13,7 +13,6 @@ RUN python -c "import wandb; print(wandb.__version__)" || echo "Failed to import
 
 COPY . .
 
-ENV WANDB_API_KEY=da37b14ce73e93a3b20284def1a1b537024ed542
-ENV WANDB_PROJECT=creadit-card-default-prediction_test-101
-
+ENV WANDB_API_KEY=your api key 
+ENV WANDB_PROJECT=your project name
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "9090"]

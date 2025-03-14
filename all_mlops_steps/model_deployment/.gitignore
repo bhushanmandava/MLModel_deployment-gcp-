@@ -1,0 +1,4 @@
+mlruns/
+wandb/
+artifacts/
+.env/
