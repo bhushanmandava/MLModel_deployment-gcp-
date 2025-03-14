@@ -7,7 +7,7 @@
 
 A production-grade machine learning deployment system for fraud detection with full ML lifecycle management.
 
-## Key Components 🔑
+## Key Components 
 
 - **Model Serving**: FastAPI endpoints for real-time predictions.
 - **Model Management**: W&B integration for version control and experiment tracking.
@@ -15,7 +15,7 @@ A production-grade machine learning deployment system for fraud detection with f
 - **Monitoring**: Built-in traffic simulation, logging, and model performance tracking.
 - **Containerization**: Dockerized deployment for easy scaling.
 
-## Weights & Biases (W&B) Integration 🧪
+## Weights & Biases (W&B) Integration 
 
 ### Core Functions:
 1. **Model Versioning**
@@ -56,7 +56,7 @@ C --> E[Preprocessor]
 C --> F[Production Model]
 ```
 
-## Installation & Setup ⚙️
+## Installation & Setup 
 
 ### 1. Local Development
 
@@ -73,7 +73,7 @@ docker build -t fraud-detector:v1 .
 docker run -p 9090:9090 --env-file .env fraud-detector:v1
 ```
 
-## API Documentation 📚
+## API Documentation 
 
 ### Prediction Request
 
@@ -100,7 +100,7 @@ docker run -p 9090:9090 --env-file .env fraud-detector:v1
 curl http://localhost:9090/health
 ```
 
-## Model Management Guide 📦
+## Model Management Guide 
 
 ### Updating Production Models
 1. Train a new model version.
@@ -113,7 +113,7 @@ curl http://localhost:9090/health
    ```
 3. Update the artifact version in the W&B dashboard.
 
-## Monitoring & Observability 📊
+## Monitoring & Observability 
 
 ### Tracked Metrics:
 
@@ -129,7 +129,7 @@ During inference initialization:
 wandb.init(project=os.getenv('WANDB_PROJECT'), job_type="monitoring")
 ```
 
-## Traffic Simulation 🚦
+## Traffic Simulation 
 
 Test different load scenarios:
 - Basic Test:
@@ -148,7 +148,7 @@ Test different load scenarios:
   python test_script.py
   ```
 
-## Security Best Practices 🔒
+## Security Best Practices 
 
 1. **Secret Management**
    - Never commit `.env` files to version control.
@@ -160,7 +160,7 @@ Test different load scenarios:
    - Day of Week: Must be between 0 and 6.
    - Amount: Must be a positive value.
 
-## Troubleshooting Guide 🚑
+## Troubleshooting Guide 
 
 ### Common Errors:
 
@@ -180,7 +180,7 @@ FileNotFoundError: Pipeline file not found
 - Check artifact version tags.
 - Validate file paths in the artifact.
 
-## Performance Optimization 🚀
+## Performance Optimization 
 
 1. **Model Caching**
    - Cache loaded models in memory to avoid reloading during each inference request.
