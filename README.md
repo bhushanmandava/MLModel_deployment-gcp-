@@ -45,7 +45,7 @@ WANDB_API_KEY=your_api_key_here  # Obtain from wandb.ai/authorize
 WANDB_PROJECT=fraud-detection-prod
 ```
 
-## System Architecture 🏗
+## System Architecture 
 
 ```mermaid
 graph TD
