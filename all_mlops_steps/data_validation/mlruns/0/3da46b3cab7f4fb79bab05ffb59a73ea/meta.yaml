@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/3da46b3cab7f4fb79bab05ffb59a73ea/artifacts
+end_time: 1741893557182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3da46b3cab7f4fb79bab05ffb59a73ea
+run_name: legendary-mare-712
+run_uuid: 3da46b3cab7f4fb79bab05ffb59a73ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893556254
+status: 4
+tags: []
+user_id: bhushanchowdary

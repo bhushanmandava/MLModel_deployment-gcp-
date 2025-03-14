@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/f965a2fcfbb046fc83ecb9ed2c65a7d9/artifacts
+end_time: 1741893662342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f965a2fcfbb046fc83ecb9ed2c65a7d9
+run_name: awesome-snake-449
+run_uuid: f965a2fcfbb046fc83ecb9ed2c65a7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893656705
+status: 4
+tags: []
+user_id: bhushanchowdary

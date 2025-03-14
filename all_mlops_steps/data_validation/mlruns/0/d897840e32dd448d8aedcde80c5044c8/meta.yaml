@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/d897840e32dd448d8aedcde80c5044c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d897840e32dd448d8aedcde80c5044c8
+run_name: unruly-gull-880
+run_uuid: d897840e32dd448d8aedcde80c5044c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892691971
+status: 1
+tags: []
+user_id: bhushanchowdary

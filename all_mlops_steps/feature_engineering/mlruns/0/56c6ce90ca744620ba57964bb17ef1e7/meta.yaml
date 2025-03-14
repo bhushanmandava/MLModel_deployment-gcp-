@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/56c6ce90ca744620ba57964bb17ef1e7/artifacts
+end_time: 1741904010816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56c6ce90ca744620ba57964bb17ef1e7
+run_name: delicate-koi-939
+run_uuid: 56c6ce90ca744620ba57964bb17ef1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741904005246
+status: 3
+tags: []
+user_id: bhushanchowdary

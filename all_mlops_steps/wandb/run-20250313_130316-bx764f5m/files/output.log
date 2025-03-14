@@ -1,0 +1,121 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 15012 entries, 0 to 15011
+Data columns (total 23 columns):
+ #   Column                 Non-Null Count  Dtype
+---  ------                 --------------  -----
+ 0   Unnamed: 0             15012 non-null  int64
+ 1   trans_date_trans_time  15012 non-null  object
+ 2   cc_num                 15012 non-null  int64
+ 3   merchant               15012 non-null  object
+ 4   category               15012 non-null  object
+ 5   amt                    15012 non-null  float64
+ 6   first                  15012 non-null  object
+ 7   last                   15012 non-null  object
+ 8   gender                 15012 non-null  object
+ 9   street                 15012 non-null  object
+ 10  city                   15012 non-null  object
+ 11  state                  15012 non-null  object
+ 12  zip                    15012 non-null  int64
+ 13  lat                    15012 non-null  float64
+ 14  long                   15012 non-null  float64
+ 15  city_pop               15012 non-null  int64
+ 16  job                    15012 non-null  object
+ 17  dob                    15012 non-null  object
+ 18  trans_num              15012 non-null  object
+ 19  unix_time              15012 non-null  int64
+ 20  merch_lat              15012 non-null  float64
+ 21  merch_long             15012 non-null  float64
+ 22  is_fraud               15012 non-null  int64
+dtypes: float64(5), int64(6), object(12)
+memory usage: 2.6+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 15012 entries, 0 to 15011
+Data columns (total 23 columns):
+ #   Column                 Non-Null Count  Dtype
+---  ------                 --------------  -----
+ 0   Unnamed: 0             15012 non-null  int64
+ 1   trans_date_trans_time  15012 non-null  object
+ 2   cc_num                 15012 non-null  int64
+ 3   merchant               15012 non-null  object
+ 4   category               15012 non-null  object
+ 5   amt                    15012 non-null  float64
+ 6   first                  15012 non-null  object
+ 7   last                   15012 non-null  object
+ 8   gender                 15012 non-null  object
+ 9   street                 15012 non-null  object
+ 10  city                   15012 non-null  object
+ 11  state                  15012 non-null  object
+ 12  zip                    15012 non-null  int64
+ 13  lat                    15012 non-null  float64
+ 14  long                   15012 non-null  float64
+ 15  city_pop               15012 non-null  int64
+ 16  job                    15012 non-null  object
+ 17  dob                    15012 non-null  object
+ 18  trans_num              15012 non-null  object
+ 19  unix_time              15012 non-null  int64
+ 20  merch_lat              15012 non-null  float64
+ 21  merch_long             15012 non-null  float64
+ 22  is_fraud               15012 non-null  int64
+dtypes: float64(5), int64(6), object(12)
+memory usage: 2.6+ MB
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 15012 entries, 0 to 15011
+Data columns (total 23 columns):
+ #   Column                 Non-Null Count  Dtype
+---  ------                 --------------  -----
+ 0   Unnamed: 0             15012 non-null  int64
+ 1   trans_date_trans_time  15012 non-null  object
+ 2   cc_num                 15012 non-null  int64
+ 3   merchant               15012 non-null  object
+ 4   category               15012 non-null  object
+ 5   amt                    15012 non-null  float64
+ 6   first                  15012 non-null  object
+ 7   last                   15012 non-null  object
+ 8   gender                 15012 non-null  object
+ 9   street                 15012 non-null  object
+ 10  city                   15012 non-null  object
+ 11  state                  15012 non-null  object
+ 12  zip                    15012 non-null  int64
+ 13  lat                    15012 non-null  float64
+ 14  long                   15012 non-null  float64
+ 15  city_pop               15012 non-null  int64
+ 16  job                    15012 non-null  object
+ 17  dob                    15012 non-null  object
+ 18  trans_num              15012 non-null  object
+ 19  unix_time              15012 non-null  int64
+ 20  merch_lat              15012 non-null  float64
+ 21  merch_long             15012 non-null  float64
+ 22  is_fraud               15012 non-null  int64
+dtypes: float64(5), int64(6), object(12)
+memory usage: 2.6+ MB
+['cc_num', 'amt', 'zip', 'lat', 'long', 'city_pop', 'unix_time', 'merch_lat', 'merch_long']
+[{"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+[{"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(2,)", "count": 2, "type": "Series", "fullType": "pandas.core.series.Series"}
+[{"name": "correlation_matrix", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "numeric_data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+{"shape": "(10, 10)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(2,)", "count": 2, "type": "Series", "fullType": "pandas.core.series.Series"}
+[{"name": "correlation_matrix", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "numeric_data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+{"shape": "(10, 10)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(2,)", "count": 2, "type": "Series", "fullType": "pandas.core.series.Series"}
+[{"name": "assign_sector", "type": "function", "fullType": "function"}, {"name": "correlation_matrix", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "numeric_data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sector_bag", "type": "dict", "fullType": "dict"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+{"shape": "(10, 10)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "", "count": 10, "type": "dict", "fullType": "dict"}
+{"shape": "(2,)", "count": 2, "type": "Series", "fullType": "pandas.core.series.Series"}
+[{"name": "assign_sector", "type": "function", "fullType": "function"}, {"name": "correlation_matrix", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "job", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "numeric_data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sector_bag", "type": "dict", "fullType": "dict"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+{"shape": "(10, 10)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(10, 2)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "", "count": 10, "type": "dict", "fullType": "dict"}
+{"shape": "(2,)", "count": 2, "type": "Series", "fullType": "pandas.core.series.Series"}
+[{"name": "assign_sector", "type": "function", "fullType": "function"}, {"name": "correlation_matrix", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "data_artifact", "type": "Artifact", "fullType": "wandb.sdk.artifacts.artifact.Artifact"}, {"name": "data_description", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "feature", "type": "str", "fullType": "str"}, {"name": "file_path", "type": "str", "fullType": "str"}, {"name": "img_filename", "type": "str", "fullType": "str"}, {"name": "job", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "np", "type": "module", "fullType": "module"}, {"name": "num_features", "type": "list", "fullType": "list"}, {"name": "numeric_data", "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}, {"name": "pd", "type": "module", "fullType": "module"}, {"name": "plt", "type": "module", "fullType": "module"}, {"name": "sector_bag", "type": "dict", "fullType": "dict"}, {"name": "sns", "type": "module", "fullType": "module"}, {"name": "target_distribution", "type": "Series", "fullType": "pandas.core.series.Series"}, {"name": "wandb", "type": "module", "fullType": "module"}]
+{"shape": "(10, 10)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(8, 11)", "count": 8, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "(10, 2)", "count": 10, "type": "DataFrame", "fullType": "pandas.core.frame.DataFrame"}
+{"shape": "", "count": 10, "type": "dict", "fullType": "dict"}
+{"shape": "(2,)", "count": 2, "type": "Series", "fullType": "pandas.core.series.Series"}

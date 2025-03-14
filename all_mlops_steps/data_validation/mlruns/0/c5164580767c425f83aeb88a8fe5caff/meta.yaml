@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/c5164580767c425f83aeb88a8fe5caff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5164580767c425f83aeb88a8fe5caff
+run_name: placid-rat-735
+run_uuid: c5164580767c425f83aeb88a8fe5caff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892510914
+status: 1
+tags: []
+user_id: bhushanchowdary

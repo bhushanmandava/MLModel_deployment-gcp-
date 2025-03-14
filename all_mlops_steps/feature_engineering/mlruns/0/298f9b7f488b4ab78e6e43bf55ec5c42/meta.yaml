@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/298f9b7f488b4ab78e6e43bf55ec5c42/artifacts
+end_time: 1741904669229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 298f9b7f488b4ab78e6e43bf55ec5c42
+run_name: colorful-deer-384
+run_uuid: 298f9b7f488b4ab78e6e43bf55ec5c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741904662141
+status: 3
+tags: []
+user_id: bhushanchowdary

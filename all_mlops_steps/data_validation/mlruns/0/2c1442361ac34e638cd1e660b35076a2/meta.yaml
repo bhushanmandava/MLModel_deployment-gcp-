@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/2c1442361ac34e638cd1e660b35076a2/artifacts
+end_time: 1741902028383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c1442361ac34e638cd1e660b35076a2
+run_name: unleashed-toad-959
+run_uuid: 2c1442361ac34e638cd1e660b35076a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741901995457
+status: 3
+tags: []
+user_id: bhushanchowdary

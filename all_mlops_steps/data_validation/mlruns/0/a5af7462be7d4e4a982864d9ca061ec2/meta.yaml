@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/a5af7462be7d4e4a982864d9ca061ec2/artifacts
+end_time: 1741894120767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5af7462be7d4e4a982864d9ca061ec2
+run_name: fearless-auk-235
+run_uuid: a5af7462be7d4e4a982864d9ca061ec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741894115543
+status: 3
+tags: []
+user_id: bhushanchowdary

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741907527655
+current_stage: None
+description: null
+last_updated_timestamp: 1741907527655
+name: XGBoost Baseline
+run_id: 64e6308d67df489397775edd1f5b8a41
+run_link: null
+source: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_training/mlruns/0/64e6308d67df489397775edd1f5b8a41/artifacts/xgboost_model
+status: READY
+status_message: null
+storage_location: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_training/mlruns/0/64e6308d67df489397775edd1f5b8a41/artifacts/xgboost_model
+user_id: null
+version: 1

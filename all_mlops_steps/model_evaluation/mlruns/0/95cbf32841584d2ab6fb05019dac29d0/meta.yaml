@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_evaluation/mlruns/0/95cbf32841584d2ab6fb05019dac29d0/artifacts
+end_time: 1741961010365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95cbf32841584d2ab6fb05019dac29d0
+run_name: enchanting-squid-595
+run_uuid: 95cbf32841584d2ab6fb05019dac29d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741961002439
+status: 3
+tags: []
+user_id: bhushanchowdary

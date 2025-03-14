@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/0c11e5baeb0940cd8141a8470d46a6ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c11e5baeb0940cd8141a8470d46a6ff
+run_name: burly-snail-828
+run_uuid: 0c11e5baeb0940cd8141a8470d46a6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893386655
+status: 1
+tags: []
+user_id: bhushanchowdary

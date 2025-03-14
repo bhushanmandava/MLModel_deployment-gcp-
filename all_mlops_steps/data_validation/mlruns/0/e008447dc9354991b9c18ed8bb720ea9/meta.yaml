@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/e008447dc9354991b9c18ed8bb720ea9/artifacts
+end_time: 1741893489186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e008447dc9354991b9c18ed8bb720ea9
+run_name: rare-donkey-803
+run_uuid: e008447dc9354991b9c18ed8bb720ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893488273
+status: 4
+tags: []
+user_id: bhushanchowdary

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/5886cfa5076445a082d92dad562a9454/artifacts
+end_time: 1741901621085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5886cfa5076445a082d92dad562a9454
+run_name: welcoming-yak-360
+run_uuid: 5886cfa5076445a082d92dad562a9454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741901577058
+status: 3
+tags: []
+user_id: bhushanchowdary

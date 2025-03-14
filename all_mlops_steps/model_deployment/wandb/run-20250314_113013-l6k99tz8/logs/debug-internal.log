@@ -1,0 +1,9 @@
+{"time":"2025-03-14T11:30:13.354909-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_deployment/wandb/run-20250314_113013-l6k99tz8/logs/debug-core.log"}
+{"time":"2025-03-14T11:30:13.461511-04:00","level":"INFO","msg":"created new stream","id":"l6k99tz8"}
+{"time":"2025-03-14T11:30:13.461548-04:00","level":"INFO","msg":"stream: started","id":"l6k99tz8"}
+{"time":"2025-03-14T11:30:13.461575-04:00","level":"INFO","msg":"handler: started","stream_id":"l6k99tz8"}
+{"time":"2025-03-14T11:30:13.461563-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"l6k99tz8"}
+{"time":"2025-03-14T11:30:13.461612-04:00","level":"INFO","msg":"sender: started","stream_id":"l6k99tz8"}
+{"time":"2025-03-14T11:30:13.703335-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-14T11:30:14.484961-04:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-03-14T11:30:15.922266-04:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}

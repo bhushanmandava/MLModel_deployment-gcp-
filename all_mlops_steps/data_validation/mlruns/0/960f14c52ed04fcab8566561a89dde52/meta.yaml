@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/960f14c52ed04fcab8566561a89dde52/artifacts
+end_time: 1741893449424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 960f14c52ed04fcab8566561a89dde52
+run_name: useful-ant-539
+run_uuid: 960f14c52ed04fcab8566561a89dde52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893448445
+status: 4
+tags: []
+user_id: bhushanchowdary

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_evaluation/mlruns/0/1b711ccfcab54c279089188ca3160f22/artifacts
+end_time: 1741960191022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b711ccfcab54c279089188ca3160f22
+run_name: rebellious-dog-679
+run_uuid: 1b711ccfcab54c279089188ca3160f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741960184801
+status: 4
+tags: []
+user_id: bhushanchowdary

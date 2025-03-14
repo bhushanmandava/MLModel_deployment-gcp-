@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_evaluation/mlruns/0/9a71ae7803c64d29a464c82e5ef9b01b/artifacts
+end_time: 1741960436253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a71ae7803c64d29a464c82e5ef9b01b
+run_name: rambunctious-cow-924
+run_uuid: 9a71ae7803c64d29a464c82e5ef9b01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741960425747
+status: 4
+tags: []
+user_id: bhushanchowdary

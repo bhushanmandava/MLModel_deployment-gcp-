@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741912608985
+current_stage: None
+description: null
+last_updated_timestamp: 1741912608985
+name: prod_model
+run_id: 59b0ee051fa04cf294ba15d6b68d1359
+run_link: null
+source: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/hyperparameter_tuning/mlruns/0/59b0ee051fa04cf294ba15d6b68d1359/artifacts/production_model
+status: READY
+status_message: null
+storage_location: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/hyperparameter_tuning/mlruns/0/59b0ee051fa04cf294ba15d6b68d1359/artifacts/production_model
+user_id: null
+version: 1

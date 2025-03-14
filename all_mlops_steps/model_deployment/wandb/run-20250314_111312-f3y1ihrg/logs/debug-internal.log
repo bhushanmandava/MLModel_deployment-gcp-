@@ -1,0 +1,17 @@
+{"time":"2025-03-14T11:13:12.934873-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_deployment/wandb/run-20250314_111312-f3y1ihrg/logs/debug-core.log"}
+{"time":"2025-03-14T11:13:13.040699-04:00","level":"INFO","msg":"created new stream","id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:13.040731-04:00","level":"INFO","msg":"stream: started","id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:13.040754-04:00","level":"INFO","msg":"sender: started","stream_id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:13.040753-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:13.040823-04:00","level":"INFO","msg":"handler: started","stream_id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:13.292044-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-14T11:13:14.081924-04:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-03-14T11:13:15.578196-04:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-03-14T11:13:16.506105-04:00","level":"INFO","msg":"stream: closing","id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:16.506474-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-14T11:13:16.50753-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-14T11:13:16.914543-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-14T11:13:17.112678-04:00","level":"INFO","msg":"sender: closed","stream_id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:17.112663-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:17.113601-04:00","level":"INFO","msg":"handler: closed","stream_id":"f3y1ihrg"}
+{"time":"2025-03-14T11:13:17.113664-04:00","level":"INFO","msg":"stream: closed","id":"f3y1ihrg"}

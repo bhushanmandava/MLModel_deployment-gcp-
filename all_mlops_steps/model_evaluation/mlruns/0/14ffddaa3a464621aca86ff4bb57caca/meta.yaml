@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_evaluation/mlruns/0/14ffddaa3a464621aca86ff4bb57caca/artifacts
+end_time: 1741960461756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14ffddaa3a464621aca86ff4bb57caca
+run_name: sneaky-bat-978
+run_uuid: 14ffddaa3a464621aca86ff4bb57caca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741960452176
+status: 3
+tags: []
+user_id: bhushanchowdary

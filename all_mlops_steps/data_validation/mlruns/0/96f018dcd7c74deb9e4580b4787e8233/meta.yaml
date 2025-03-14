@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/96f018dcd7c74deb9e4580b4787e8233/artifacts
+end_time: 1741894059715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96f018dcd7c74deb9e4580b4787e8233
+run_name: silent-squid-72
+run_uuid: 96f018dcd7c74deb9e4580b4787e8233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741894054512
+status: 4
+tags: []
+user_id: bhushanchowdary

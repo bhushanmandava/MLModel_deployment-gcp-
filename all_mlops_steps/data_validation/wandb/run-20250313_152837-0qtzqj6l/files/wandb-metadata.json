@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-03-13T19:28:37.223265Z",
+  "program": "/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/data_validation.py",
+  "codePath": "full_mlflow_pipline/jobs/data_validation/data_validation.py",
+  "git": {
+    "remote": "https://github.com/bhushanmandava/MLops.git",
+    "commit": "ff437aef85122b5be47af14394df1cd6e664774d"
+  },
+  "email": "bhushanmandava16@gmail.com",
+  "root": "/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation",
+  "host": "bhushans-Mac-mini.local",
+  "executable": "/Users/bhushanchowdary/.pyenv/versions/3.10.12/bin/python",
+  "codePathLocal": "data_validation.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "81984307200"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "81984307200"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "apple": {
+    "name": "Apple M4",
+    "ecpuCores": 6,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 16,
+    "swapTotalBytes": "2147483648",
+    "ramTotalBytes": "17179869184"
+  }
+}

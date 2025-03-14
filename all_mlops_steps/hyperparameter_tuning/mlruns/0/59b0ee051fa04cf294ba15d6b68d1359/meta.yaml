@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/hyperparameter_tuning/mlruns/0/59b0ee051fa04cf294ba15d6b68d1359/artifacts
+end_time: 1741912612035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59b0ee051fa04cf294ba15d6b68d1359
+run_name: luminous-toad-258
+run_uuid: 59b0ee051fa04cf294ba15d6b68d1359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741912549261
+status: 3
+tags: []
+user_id: bhushanchowdary

@@ -1,0 +1,15 @@
+{"time":"2025-03-13T17:40:52.96819-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/wandb/run-20250313_174052-xmvktmve/logs/debug-core.log"}
+{"time":"2025-03-13T17:40:53.074683-04:00","level":"INFO","msg":"created new stream","id":"xmvktmve"}
+{"time":"2025-03-13T17:40:53.074729-04:00","level":"INFO","msg":"stream: started","id":"xmvktmve"}
+{"time":"2025-03-13T17:40:53.074746-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xmvktmve"}
+{"time":"2025-03-13T17:40:53.074756-04:00","level":"INFO","msg":"sender: started","stream_id":"xmvktmve"}
+{"time":"2025-03-13T17:40:53.074793-04:00","level":"INFO","msg":"handler: started","stream_id":"xmvktmve"}
+{"time":"2025-03-13T17:40:53.290855-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-13T17:40:54.499706-04:00","level":"INFO","msg":"stream: closing","id":"xmvktmve"}
+{"time":"2025-03-13T17:40:54.499731-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-13T17:40:54.50001-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-13T17:40:54.886434-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-13T17:40:55.083643-04:00","level":"INFO","msg":"handler: closed","stream_id":"xmvktmve"}
+{"time":"2025-03-13T17:40:55.083659-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xmvktmve"}
+{"time":"2025-03-13T17:40:55.083669-04:00","level":"INFO","msg":"sender: closed","stream_id":"xmvktmve"}
+{"time":"2025-03-13T17:40:55.083768-04:00","level":"INFO","msg":"stream: closed","id":"xmvktmve"}

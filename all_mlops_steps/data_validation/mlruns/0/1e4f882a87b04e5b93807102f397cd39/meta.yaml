@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/1e4f882a87b04e5b93807102f397cd39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e4f882a87b04e5b93807102f397cd39
+run_name: wistful-jay-488
+run_uuid: 1e4f882a87b04e5b93807102f397cd39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892473961
+status: 1
+tags: []
+user_id: bhushanchowdary

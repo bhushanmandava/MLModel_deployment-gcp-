@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_training/mlruns/0/05fff6cab3394594847d2f4bfb3dbffb/artifacts
+end_time: 1741908556620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05fff6cab3394594847d2f4bfb3dbffb
+run_name: luminous-finch-828
+run_uuid: 05fff6cab3394594847d2f4bfb3dbffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741908525179
+status: 3
+tags: []
+user_id: bhushanchowdary

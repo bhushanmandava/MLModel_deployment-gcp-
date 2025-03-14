@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/d59650f2e949464a892852294755aaaa/artifacts
+end_time: 1741902311550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59650f2e949464a892852294755aaaa
+run_name: sincere-mink-778
+run_uuid: d59650f2e949464a892852294755aaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741902305804
+status: 3
+tags: []
+user_id: bhushanchowdary

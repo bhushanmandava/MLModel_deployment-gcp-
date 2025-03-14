@@ -1,0 +1,16 @@
+method: bayes  # Bayesian optimization
+metric:
+  name: f1_score
+  goal: maximize
+parameters:
+  n_estimators:
+    values: [100, 200, 300]
+  max_depth:
+    min: 3
+    max: 10
+  learning_rate:
+    min: 0.01
+    max: 0.2
+  subsample:
+    min: 0.5
+    max: 1.0

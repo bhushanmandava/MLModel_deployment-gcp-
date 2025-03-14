@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/60dea8bf00ae4619bfb68d3b387779c1/artifacts
+end_time: 1741904111781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60dea8bf00ae4619bfb68d3b387779c1
+run_name: learned-snake-182
+run_uuid: 60dea8bf00ae4619bfb68d3b387779c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741904106091
+status: 3
+tags: []
+user_id: bhushanchowdary

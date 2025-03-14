@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_evaluation/mlruns/0/c9e69002c0f247dea34e8e7e5f70a60f/artifacts
+end_time: 1741960989096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e69002c0f247dea34e8e7e5f70a60f
+run_name: trusting-smelt-176
+run_uuid: c9e69002c0f247dea34e8e7e5f70a60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741960979684
+status: 3
+tags: []
+user_id: bhushanchowdary

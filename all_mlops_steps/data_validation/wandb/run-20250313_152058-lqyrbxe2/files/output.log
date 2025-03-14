@@ -1,0 +1,13 @@
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Traceback (most recent call last):
+  File "/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/data_validation.py", line 75, in <module>
+    main()
+  File "/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/data_validation.py", line 63, in main
+    validation_passed = validate_data(data)
+  File "/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/data_validation.py", line 35, in validate_data
+    schema = DataFrameSchema({
+  File "/Users/bhushanchowdary/.pyenv/versions/3.10.12/lib/python3.10/site-packages/pandera/api/dataframe/container.py", line 144, in __init__
+    _validate_columns(columns)
+  File "/Users/bhushanchowdary/.pyenv/versions/3.10.12/lib/python3.10/site-packages/pandera/api/dataframe/container.py", line 1261, in _validate_columns
+    for check in column.checks:
+AttributeError: 'bool' object has no attribute 'checks'

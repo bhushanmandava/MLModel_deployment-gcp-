@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_training/mlruns/0/64e6308d67df489397775edd1f5b8a41/artifacts
+end_time: 1741907528658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64e6308d67df489397775edd1f5b8a41
+run_name: flawless-hog-813
+run_uuid: 64e6308d67df489397775edd1f5b8a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907520234
+status: 3
+tags: []
+user_id: bhushanchowdary

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_training/mlruns/0/d9591a62d6db4830af899df6efed11f8/artifacts
+end_time: 1741907463292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9591a62d6db4830af899df6efed11f8
+run_name: capricious-newt-494
+run_uuid: d9591a62d6db4830af899df6efed11f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907430137
+status: 4
+tags: []
+user_id: bhushanchowdary

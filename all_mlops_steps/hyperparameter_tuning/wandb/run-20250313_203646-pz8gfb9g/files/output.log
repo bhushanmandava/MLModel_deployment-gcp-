@@ -1,0 +1,13 @@
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+/Users/bhushanchowdary/anaconda3/envs/mlflow-4958492d4963458dd82117b3ea92e844ce681c69/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [20:36:47] WARNING: /Users/runner/miniforge3/conda-bld/xgboost-split_1724807611129/work/src/learner.cc:740:
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+NO BASELINE MODEL FOUND. Using tuned model for production. F1 Score: 0.8255401483392454
+/Users/bhushanchowdary/anaconda3/envs/mlflow-4958492d4963458dd82117b3ea92e844ce681c69/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [20:36:47] WARNING: /Users/runner/miniforge3/conda-bld/xgboost-split_1724807611129/work/src/c_api/c_api.cc:1374: Saving model in the UBJSON format as default.  You can use file extension: `json`, `ubj` or `deprecated` to choose between formats.
+  warnings.warn(smsg, UserWarning)
+/Users/bhushanchowdary/anaconda3/envs/mlflow-4958492d4963458dd82117b3ea92e844ce681c69/lib/python3.8/site-packages/_distutils_hack/__init__.py:31: UserWarning: Setuptools is replacing distutils. Support for replacing an already imported distutils is deprecated. In the future, this condition will fail. Register concerns at https://github.com/pypa/setuptools/issues/new?template=distutils-deprecation.yml
+  warnings.warn(
+Successfully registered model 'prod_model'.
+Created version '1' of model 'prod_model'.
+Downloading artifacts: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:00<00:00, 6626.07it/s]

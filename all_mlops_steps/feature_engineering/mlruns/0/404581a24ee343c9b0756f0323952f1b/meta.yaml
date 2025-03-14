@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/404581a24ee343c9b0756f0323952f1b/artifacts
+end_time: 1741904651710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 404581a24ee343c9b0756f0323952f1b
+run_name: puzzled-conch-71
+run_uuid: 404581a24ee343c9b0756f0323952f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741904645931
+status: 3
+tags: []
+user_id: bhushanchowdary

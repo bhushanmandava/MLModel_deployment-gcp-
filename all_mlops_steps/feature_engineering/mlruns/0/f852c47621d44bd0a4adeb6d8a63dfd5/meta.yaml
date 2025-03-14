@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/feature_engineering/mlruns/0/f852c47621d44bd0a4adeb6d8a63dfd5/artifacts
+end_time: 1741902055287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f852c47621d44bd0a4adeb6d8a63dfd5
+run_name: masked-bug-304
+run_uuid: f852c47621d44bd0a4adeb6d8a63dfd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741902049906
+status: 3
+tags: []
+user_id: bhushanchowdary

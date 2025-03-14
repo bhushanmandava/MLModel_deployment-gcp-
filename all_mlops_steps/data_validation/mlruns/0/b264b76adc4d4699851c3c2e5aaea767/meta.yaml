@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/b264b76adc4d4699851c3c2e5aaea767/artifacts
+end_time: 1741904078236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b264b76adc4d4699851c3c2e5aaea767
+run_name: loud-bee-951
+run_uuid: b264b76adc4d4699851c3c2e5aaea767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741904071933
+status: 3
+tags: []
+user_id: bhushanchowdary

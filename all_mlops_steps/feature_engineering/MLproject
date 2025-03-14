@@ -1,0 +1,7 @@
+name: FeatureEngineeringComponent
+
+conda_env: conda.yml
+
+entry_points:
+  main:
+    command: "python feature_engineering.py"

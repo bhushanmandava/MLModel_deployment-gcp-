@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/9bbd696c075c480c89dbedd3c168c8fe/artifacts
+end_time: 1741893873416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bbd696c075c480c89dbedd3c168c8fe
+run_name: hilarious-conch-979
+run_uuid: 9bbd696c075c480c89dbedd3c168c8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893868215
+status: 4
+tags: []
+user_id: bhushanchowdary

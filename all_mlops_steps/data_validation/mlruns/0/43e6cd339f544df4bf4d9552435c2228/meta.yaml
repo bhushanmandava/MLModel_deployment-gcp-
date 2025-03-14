@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/43e6cd339f544df4bf4d9552435c2228/artifacts
+end_time: 1741893629439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43e6cd339f544df4bf4d9552435c2228
+run_name: learned-kite-309
+run_uuid: 43e6cd339f544df4bf4d9552435c2228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893628095
+status: 4
+tags: []
+user_id: bhushanchowdary

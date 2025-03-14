@@ -1,0 +1,23 @@
+[2025-03-13 20:39:24 -0400] [12204] [INFO] Starting gunicorn 23.0.0
+[2025-03-13 20:39:24 -0400] [12204] [INFO] Listening at: http://0.0.0.0:5008 (12204)
+[2025-03-13 20:39:24 -0400] [12204] [INFO] Using worker: sync
+[2025-03-13 20:39:24 -0400] [12210] [INFO] Booting worker with pid: 12210
+[2025-03-13 20:39:24 -0400] [12211] [INFO] Booting worker with pid: 12211
+[2025-03-13 20:39:24 -0400] [12212] [INFO] Booting worker with pid: 12212
+[2025-03-13 20:39:24 -0400] [12213] [INFO] Booting worker with pid: 12213
+[2025-03-13 22:05:36 -0400] [12204] [INFO] Handling signal: hup
+[2025-03-13 22:05:36 -0400] [12204] [INFO] Hang up: Master
+[2025-03-13 22:05:36 -0400] [12936] [INFO] Booting worker with pid: 12936
+[2025-03-13 22:05:36 -0400] [12937] [INFO] Booting worker with pid: 12937
+[2025-03-13 22:05:36 -0400] [12939] [INFO] Booting worker with pid: 12939
+[2025-03-13 22:05:36 -0400] [12941] [INFO] Booting worker with pid: 12941
+[2025-03-13 22:05:36 -0400] [12204] [ERROR] Worker (pid:12210) was sent SIGHUP!
+[2025-03-13 22:05:36 -0400] [12204] [ERROR] Worker (pid:12213) was sent SIGHUP!
+[2025-03-13 22:05:36 -0400] [12204] [ERROR] Worker (pid:12212) was sent SIGHUP!
+[2025-03-13 22:05:36 -0400] [12204] [ERROR] Worker (pid:12211) was sent SIGHUP!
+[2025-03-13 22:43:23 -0400] [12204] [INFO] Handling signal: term
+[2025-03-13 22:43:23 -0400] [12936] [INFO] Worker exiting (pid: 12936)
+[2025-03-13 22:43:23 -0400] [12941] [INFO] Worker exiting (pid: 12941)
+[2025-03-13 22:43:23 -0400] [12939] [INFO] Worker exiting (pid: 12939)
+[2025-03-13 22:43:23 -0400] [12937] [INFO] Worker exiting (pid: 12937)
+[2025-03-13 22:43:24 -0400] [12204] [INFO] Shutting down: Master

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/data_validation/mlruns/0/cda14d7425eb49aa87d3133a55001165/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cda14d7425eb49aa87d3133a55001165
+run_name: popular-wasp-913
+run_uuid: cda14d7425eb49aa87d3133a55001165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741893265184
+status: 1
+tags: []
+user_id: bhushanchowdary

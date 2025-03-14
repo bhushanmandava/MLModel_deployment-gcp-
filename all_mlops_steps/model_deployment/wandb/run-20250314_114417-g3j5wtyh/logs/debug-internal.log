@@ -1,0 +1,10 @@
+{"time":"2025-03-14T11:44:17.085938-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/bhushanchowdary/Documents/GitHub/MLops/full_mlflow_pipline/jobs/model_deployment/wandb/run-20250314_114417-g3j5wtyh/logs/debug-core.log"}
+{"time":"2025-03-14T11:44:17.192051-04:00","level":"INFO","msg":"created new stream","id":"g3j5wtyh"}
+{"time":"2025-03-14T11:44:17.192082-04:00","level":"INFO","msg":"stream: started","id":"g3j5wtyh"}
+{"time":"2025-03-14T11:44:17.192096-04:00","level":"INFO","msg":"handler: started","stream_id":"g3j5wtyh"}
+{"time":"2025-03-14T11:44:17.192136-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"g3j5wtyh"}
+{"time":"2025-03-14T11:44:17.192116-04:00","level":"INFO","msg":"sender: started","stream_id":"g3j5wtyh"}
+{"time":"2025-03-14T11:44:17.473106-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-14T11:44:18.265892-04:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-03-14T11:44:19.781304-04:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-03-14T12:32:33.031042-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bhushanmandava16-personal/creadit-card-default-prediction_test-101/g3j5wtyh/file_stream\": read tcp 10.0.0.251:51930->35.186.228.49:443: read: connection reset by peer"}

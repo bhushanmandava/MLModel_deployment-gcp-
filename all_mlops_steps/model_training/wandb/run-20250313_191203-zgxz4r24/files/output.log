@@ -1,0 +1,9 @@
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+/Users/bhushanchowdary/.pyenv/versions/3.10.12/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:12:05] WARNING: /Users/runner/work/xgboost/xgboost/src/learner.cc:740:
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/Users/bhushanchowdary/.pyenv/versions/3.10.12/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:12:05] WARNING: /Users/runner/work/xgboost/xgboost/src/c_api/c_api.cc:1374: Saving model in the UBJSON format as default.  You can use file extension: `json`, `ubj` or `deprecated` to choose between formats.
+  warnings.warn(smsg, UserWarning)
+Successfully registered model 'XGBoost Baseline'.
+Created version '1' of model 'XGBoost Baseline'.
